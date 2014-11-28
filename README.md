@@ -3,6 +3,7 @@ AndroidUCLBarclaysBikes
 
 Android Application - Route mapper using live tfl data to find the nearest tfl bike stations. 
 Allows us to route from a start and end location, finding the nearest barclays bike dock, and to show this on a google map. 
+Created as part of 3rd year CS at UCL, as part of an aim to create simulations for tfl.
 
 - This example xml file shows the same format of the live bike data: http://www.tfl.gov.uk/cdn/static/cms/documents/barclays-cycle-hire-availability-example.xml
 - Uses google maps services to get co-ordinates and show route on google maps
